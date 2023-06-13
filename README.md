@@ -14,4 +14,4 @@
 | Destructoid      | https://www.destructoid.com                       | News, forums, podcast, blog, reviews                      | 10                |
 | Gaming in Turkey | https://www.gaminginturkey.com/tr/oyun-haberleri/ | News, game publishing, game & espot ajans, sector report  | 10                |
 
-#Medium Blog
+# Medium Blog
