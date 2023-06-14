@@ -94,3 +94,10 @@
 | 87 | League of Game Makers  | https://www.leagueofgamemakers.com                |
 
 # Medium Blog
+
+|   | Title           | Link                             |
+|---|-----------------|----------------------------------|
+| 1 | StepN Official  | https://stepnofficial.medium.com |
+| 2 | Gogala Games    | https://gogalagames.medium.com   |
+| 3 | Sorare          | https://medium.com/sorare        |
+| 4 | Star Atlas Game | https://staratlasgame.medium.com |
