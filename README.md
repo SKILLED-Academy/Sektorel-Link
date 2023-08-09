@@ -93,6 +93,16 @@
 | 86 | Kong Pokpao            | https://kongbakpao.com/category/games-2/          |
 | 87 | League of Game Makers  | https://www.leagueofgamemakers.com                |
 
+# Game Design
+
+|    | Title                  | Link                                              |
+|----|------------------------|---------------------------------------------------|
+| 1  | Game Design 101        |https://youtube.com/playlist?list=PLc38fcMFcV_vToz9Nvc_YQTNH8hkIQ2uC|
+| 2  | Game Rant              | https://gamerant.com/gaming/                      |
+| 3  | Pocketgamer            | https://www.pocketgamer.biz                       |
+| 4  | Tech Crunch            | https://techcrunch.com/category/gaming/           |
+| 5  | Game Spot              | https://www.gamespot.com/news/                    |
+
 # Medium Blog
 
 |   | Title           | Link                             |
