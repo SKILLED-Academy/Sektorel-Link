@@ -12,7 +12,7 @@
 [📌 Discord Servers](#9) <br>
 [📌 Hard Skill & Hard Skill Plus Unity Sources](#10) <br>
 
-#  <a name="1"></a>Gaming Websites 📑
+#  <a name="1"></a>Gaming Websites 📑 
 
 |    | Title                  | Link                                              |
 |----|------------------------|---------------------------------------------------|
