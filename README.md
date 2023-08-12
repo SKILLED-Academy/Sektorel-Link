@@ -93,15 +93,35 @@
 | 86 | Kong Pokpao            | https://kongbakpao.com/category/games-2/          |
 | 87 | League of Game Makers  | https://www.leagueofgamemakers.com                |
 
-# Game Design
+# Game Design Videos
 
-|    | Title                  | Link                                              |
-|----|------------------------|---------------------------------------------------|
-| 1  | Game Design 101        |https://youtube.com/playlist?list=PLc38fcMFcV_vToz9Nvc_YQTNH8hkIQ2uC|
-| 2  | Game Rant              | https://gamerant.com/gaming/                      |
-| 3  | Pocketgamer            | https://www.pocketgamer.biz                       |
-| 4  | Tech Crunch            | https://techcrunch.com/category/gaming/           |
-| 5  | Game Spot              | https://www.gamespot.com/news/                    |
+|    | Title                                                | Link                                                                     |
+|----|------------------------------------------------------|--------------------------------------------------------------------------|
+| 1  | Game Design 101                                      | https://youtube.com/playlist?list=PLc38fcMFcV_vToz9Nvc_YQTNH8hkIQ2uC     |
+| 2  | Shooter Game Design                                  | https://youtube.com/playlist?list=PLc38fcMFcV_t3n8OkFs-Uv6r_bh8STeRn     |
+| 3  | Platformer Game Design                               | https://youtube.com/playlist?list=PLc38fcMFcV_t66OnpNFFXKIqsQRPVHq6U     |
+| 4  | Engellere Karşı Oyun Geliştirme (Advance)(Optional)  | https://youtube.com/playlist?list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR     |
+| 5  | Game Design Bundle (Razbuten)                        | https://youtube.com/playlist?list=PLordXx8iNEyQryL2HDgxx-VGENscuB0Bs     |
+| 6  | Game Psychology                                      | https://www.youtube.com/watch?v=lkatr_a1OMQ&t=1s                         |
+| 7  | How to Design a Video Game                           | https://youtube.com/playlist?list=PLqlV9u4jszMeVV-oWzOph-eV3TC3x2WnE     |
+| 8  | 5 Principles of Game Design                          | https://www.youtube.com/watch?v=pF2LGYVRCwI                              |
+| 9  | So You Wanna Make Games (Riot Games)                 | https://youtube.com/playlist?list=PL42m9XiTqPHJdJuVXO6Vf5ta5D07peiVx     |
+| 10 | Game Developer Talks (Türkçe)                        | https://www.youtube.com/playlist?list=PLZj2Q42tw-6-mJciqyDCne0DeVm0duCyS |
+| 11 | Crash Course Games (Oyun Tarihi Nedir, Ne Değildir?) | https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG |
+
+# Game Design Blogs
+
+|    | Title                                                | Link                                                                                                   |
+|----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1  | Level Up Your Game Design Skills: A Beginner’s Guide | https://medium.com/@samannmalikk/level-up-your-game-design-skills-a-beginners-guide-9068a152d1cc       |
+| 2  | Level Design 101                                     | https://medium.com/my-games-company/level-design-101-the-language-of-location-development-6d940a01b949 |
+| 3  | Game Design, yoga for the mind                       | https://uxdesign.cc/game-design-yoga-for-the-mind-e880c721e939                                         |
+| 4  | 12 BIG IDEAS from Game Design                        | https://medium.com/serious-games-377g/9-big-ideas-from-game-design-you-should-know-71d6c5c514ac        |
+| 5  | 12 Question on Game Design                           | https://medium.com/kickstarter/12-questions-on-game-design-ff994420de9d                                |
+| 6  | Game Design: Dark Pattern                            | https://uxdesign.cc/game-design-dark-patterns-that-keep-you-hooked-a3988395533c                        |
+| 7  | UX Design                                            | https://uxdesign.cc/ux-and-video-game-design-5d8bcc50be67                                              |
+| 8  | The Colors of Game Design                            | https://uxdesign.cc/colors-of-game-design-9413d81e93a                                                  |
+| 9  | Game Design from Idea to Concept                     | https://hash-rush.medium.com/game-design-from-idea-to-concept-ernack-buildings-structures-d5c91d276254 |
 
 # Medium Blog
 
