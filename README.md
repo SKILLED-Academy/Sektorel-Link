@@ -1,7 +1,7 @@
 # Sektorel-Link
 Öğrencilere sunabileceğimiz örnek sektörel bilgi, link, kaynak paylaşımları
 
-# Websites
+# Gaming Websites
 
 |    | Title                  | Link                                              |
 |----|------------------------|---------------------------------------------------|
@@ -123,7 +123,37 @@
 | 8  | The Colors of Game Design                            | https://uxdesign.cc/colors-of-game-design-9413d81e93a                                                  |
 | 9  | Game Design from Idea to Concept                     | https://hash-rush.medium.com/game-design-from-idea-to-concept-ernack-buildings-structures-d5c91d276254 |
 
-# Medium Blog
+# Video Game Publishing & Marketing
+
+|    | Title                                                | Link                                                                                                   |
+|----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1  | Publishing Playlist (GDC, Ask GameDev and more)      | https://youtube.com/playlist?list=PL-E2qGIahWdPk3234810qmf36eaSKgLzL                                   |
+| 2  | Jonas Tyroller - Video Game Marketing                | https://www.youtube.com/watch?v=UwjbLFImXOg                                                            |
+| 3  | Marketing Zero Budget                                | https://www.youtube.com/watch?v=l3QnovWYvwo&t=1s                                                       |
+| 4  | Empathizing with Steam                               | https://www.youtube.com/watch?v=UJiv14uPOac&t=316s                                                     |
+| 5  | Chris Zukowski Talks                                 | https://youtube.com/playlist?list=PLrHXT1qupw1jPpJs0NO1g9cbHKaiwgvND                                   |
+
+# Game Dev Journey
+
+|    | Title                                                | Link                                                                                                   |
+|----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1  | Game Dev Stories                                     | https://youtube.com/playlist?list=PL-E2qGIahWdPk3234810qmf36eaSKgLzL                                   |
+| 2  | GDC Programming Talks                                | https://youtube.com/playlist?list=PL2e4mYbwSTbaw1l65rE0Gv6_B9ctOzYyW                                   |
+| 3  | GMTK                                                 | https://www.youtube.com/watch?v=vFjXKOXdgGo&t=1s                                                       |
+| 4  | GMTK 2                                               | https://www.youtube.com/watch?v=ZMbIvmv25u0                                                            |
+| 5  | Pass the Game Challenge                              | https://youtube.com/playlist?list=PLBIb_auVtBwCNnbmuppsBJdulUZmW0Cfu                                   |
+
+# Vision & Perspective
+
+|    | Title                                                | Link                                                                                                   |
+|----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1  | GMTK Interviews                                      | https://youtube.com/playlist?list=PLc38fcMFcV_uUETn8nFq3yMqnkYhkgG65                                   |
+| 2  | Ask Game Dev Interview & Specials                    | https://youtube.com/playlist?list=PLqlV9u4jszMeRKiW9o9TO8YVrqhSxbf33                                   |
+| 3  | Life at Riot Games                                   | https://youtube.com/playlist?list=PL42m9XiTqPHKbbPUcg5ZBCIx9IuoJL5Qp                                   |
+| 4  | NoClip - Making the Witcher 3                        | https://youtube.com/playlist?list=PL-THgg8QnvU6WuPJmh19U8cAFjzXHCgvk                                   |
+| 5  | Best Indie Games                                     | https://youtube.com/playlist?list=PLBIb_auVtBwCNnbmuppsBJdulUZmW0Cfu                                   |
+
+# Game Dev Medium Blog
 
 |   | Title           | Link                             |
 |---|-----------------|----------------------------------|
@@ -131,3 +161,45 @@
 | 2 | Gogala Games    | https://gogalagames.medium.com   |
 | 3 | Sorare          | https://medium.com/sorare        |
 | 4 | Star Atlas Game | https://staratlasgame.medium.com |
+
+# Twitter Source
+
+|    | Title             | Link                                |
+|----|-------------------|-------------------------------------|
+| 1  | Jason Schreier    | https://twitter.com/jasonschreier   |
+| 2  | Phil Spencer      | https://twitter.com/XboxP3          |
+| 3  | Skill UP          | https://twitter.com/SkillUpYT       |
+| 4  | Neil Druckman     | https://twitter.com/Neil_Druckmann  |
+| 5  | Geoff Keighley    | https://twitter.com/geoffkeighley   |
+| 6  | Stephen Tolito    | https://twitter.com/stephentotilo   |
+| 7  | Sara Bond         | https://twitter.com/BondSarah_Bond  |
+| 8  | Ryan McCaffrey    | https://twitter.com/DMC_Ryan        |
+| 9  | Game Informer     | https://twitter.com/gameinformer    |
+| 10 | Future Games Show | https://twitter.com/FutureGamesShow |
+| 11 | Hunter            | https://twitter.com/NextGenPlayer   |
+| 12 | PCGamesN          | https://twitter.com/PCGamesN        |
+| 13 | Unity for Games   | https://twitter.com/unitygames      |
+| 14 | Best Indie Games  | https://twitter.com/clemmygames     |
+| 15 | Multiplayer       | https://twitter.com/Multiplayer_TV  |
+| 16 | Tunca Arslan      | https://twitter.com/OyunDoktoruu    |
+| 17 | Press Start       | https://twitter.com/pressstartexe   |
+| 18 | Enis Kirazoğlu    | https://twitter.com/EnisKirazoglu   |
+| 19 | Batuhan Bozkan    | https://twitter.com/batubozkan      |
+| 20 | Unreal Engine     | https://twitter.com/UnrealEngine    |
+| 21 | Ataberk Palacı    | https://twitter.com/ataberkpalaci   |
+
+# Discord Servers
+
+|    | Title                | Link                                              |
+|----|----------------------|---------------------------------------------------|
+| 1  | Game Factory          | https://discord.gg/DCMBrKE72g                |
+| 2  | Mağara               | https://discord.gg/magara                         |
+| 3  | İTÜ OTG              | https://discord.com/invite/Qt39dEPA4V             |
+| 4  | beIndie              | https://discord.gg/eWSQKPf9Hf                     |
+| 5  | UNOG                 | https://discord.gg/unoghub                        |
+| 6  | Mobidictum           | https://discord.gg/aytCmV7ehW                     |
+| 7  | BAOG                 | https://discord.gg/ZB4r4qGdnb                     |
+| 8  | How to Market a Game | https://discord.gg/pQt662MQZ3                     |
+| 9  | AskGameDev           | https://discord.gg/qT38UsAdGn                     |
+| 10 | Indie Games          | https://discord.gg/indie-games-788388123734048798 |
+| 11 | Mağara Dev         | https://discord.gg/MTHbdtd4FK                    |
