@@ -204,6 +204,7 @@
 | 10 | Indie Games          | https://discord.gg/indie-games-788388123734048798 |
 | 11 | Mağara Dev         | https://discord.gg/MTHbdtd4FK                    |
 
+
 # In Class Unity Sources
 
  - Object Hierarchy: https://docs.unity3d.com/Manual/Hierarchy.html
