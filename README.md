@@ -203,3 +203,31 @@
 | 9  | AskGameDev           | https://discord.gg/qT38UsAdGn                     |
 | 10 | Indie Games          | https://discord.gg/indie-games-788388123734048798 |
 | 11 | Mağara Dev         | https://discord.gg/MTHbdtd4FK                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
