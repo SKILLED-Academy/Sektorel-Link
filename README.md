@@ -205,30 +205,49 @@
 | 11 | Mağara Dev         | https://discord.gg/MTHbdtd4FK                    |
 
 
-# In Class Unity Sources
+# Hard Skill & Hard Skill Plus Unity Sources
 
- - Object Hierarchy: https://docs.unity3d.com/Manual/Hierarchy.html
- - Transform Component: https://docs.unity3d.com/Manual/class-Transform.html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|    | Title                                                     | Link                                                                                                                                                              |
+|----|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Object Hierarchy                                          | https://docs.unity3d.com/Manual/Hierarchy.html                                                                                                                    |
+| 2  | Transform Component                                       | https://docs.unity3d.com/Manual/class-Transform.html                                                                                                              |
+| 3  | VSCode                                                    | https://code.visualstudio.com/docs/other/unity                                                                                                                    |
+| 4  | Git Repo Oluşturmak                                       | https://blog.terresquall.com/2020/04/using-github-desktop-as-your-source-control-repository-in-unity/                                                             |
+| 5  | Input                                                     | https://michael-kline.medium.com/reading-user-input-in-unity-e7e310b211f4                                                                                         |
+| 6  | Mobidictum                                                | https://gamedevbeginner.com/scriptable-objects-in-unity/#what_cant_you_do_with_scriptable_objects                                                                 |
+| 7  | UI                                                        | https://blog.logrocket.com/create-easy-reliable-clean-ui-unity/                                                                                                   |
+| 8  | Layouts                                                   | https://unity3d.college/2017/08/11/unity-ugui-horizontallayoutgroup-verticallayoutgroup-gridlayoutgroup-and-layoutelement/                                        |
+| 9  | Singleton                                                 | https://gamedevbeginner.com/singletons-in-unity-the-right-way/                                                                                                    |
+| 10 | Observer                                                  | https://unity.com/how-to/create-modular-and-maintainable-code-observer-pattern                                                                                    |
+| 11 | Ragdoll                                                   | https://www.youtube.com/watch?v=DInV-jHm9rk&t=127s                                                                                                                |
+| 12 | Ragdoll                                                   | https://www.youtube.com/watch?v=hQub6caVlpY                                                                                                                       |
+| 13 | Ragdoll                                                   | https://www.youtube.com/watch?v=LDK0yB-nyD8                                                                                                                       |
+| 14 | Ragdoll                                                   | https://suleimanabdullah.medium.com/framework-ragdolls-physics-to-the-enemy-cbdcb1dc7bcf                                                                          |
+| 15 | Vector in Unity                                           | https://awesometuts.com/blog/unity-vectors/#:~:text=Definition%20Of%20A%20Vector&text=In%20game%20development%2C%20vectors%20are,%2C%203D%2C%20and%204D%20vectors |
+| 16 | Vector in Unity                                           | https://www.youtube.com/watch?v=e3z91RqZPAk                                                                                                                       |
+| 17 | Vector in Unity                                           | https://www.youtube.com/watch?v=kz92vvioeng                                                                                                                       |
+| 18 | Rigidbody                                                 | https://www.youtube.com/watch?v=WTGcs10Sj34                                                                                                                       |
+| 19 | Rigidbody                                                 | https://www.youtube.com/watch?v=xp37Hz1t1Q8                                                                                                                       |
+| 20 | Rigidbody                                                 | https://www.youtube.com/watch?v=7LVOeNalTFA                                                                                                                       |
+| 21 | Rigidbody                                                 | https://docs.unity3d.com/Manual/rigidbody-physics-section.html                                                                                                    |
+| 22 | Animasyon                                                 | https://www.youtube.com/watch?v=uDqjIdI4bF4                                                                                                                       |
+| 23 | Material                                                  | https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/shaders-in-universalrp.html                                                     |
+| 24 | Post Processing                                           | https://blog.logrocket.com/exploring-post-processing-unity/                                                                                                       |
+| 25 | UI                                                        | https://resources.unity.com/games/user-interface-design-and-implementation-in-unity                                                                               |
+| 26 | Physical Light Units (HDRP)                               | https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.2/manual/Physical-Light-Units.html                                                |
+| 27 | Global Illumination                                       | https://www.pluralsight.com/blog/film-games/understanding-global-illumination                                                                                     |
+| 28 | Screen Space Global Illimunation (SSGI) (HDRP)            | https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/Override-Screen-Space-GI.html                                            |
+| 29 | Signed Distance Field Global Illumination (SDFGI) (GODOT) | https://docs.godotengine.org/en/stable/tutorials/3d/global_illumination/using_sdfgi.html                                                                          |
+| 30 | Voxel Based Global Illumination (cryengine)               | https://docs.cryengine.com/pages/viewpage.action?pageId=25535599                                                                                                  |
+| 31 | Lumen (Unreal)                                            | https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/                                                               |
+| 32 | SSR                                                       | https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/Override-Screen-Space-Reflection.html                                    |
+| 33 | Volumetric Fog                                            | https://www.game-debate.com/news/28294/what-do-volumetric-lighting-and-volumetric-fog-do-graphics-settings-explained                                              |
+| 34 | Ambient Occlusion (Definition)                            | https://www.pluralsight.com/blog/film-games/understanding-ambient-occlusion                                                                                       |
+| 35 | Screen Space Ambient Occlusion                            | https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/post-processing-ssao.html                                                      |
+| 36 | General Shadows (with hdrp features)                      | https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/Shadows-in-HDRP.html                                                     |
+| 37 | Cascades                                                  | https://docs.unity3d.com/Manual/shadow-cascades.html                                                                                                              |
+| 38 | Unreal (better definition)                                | https://docs.unrealengine.com/4.27/en-US/BuildingWorlds/LightingAndShadows/ContactShadows/                                                                        |
+| 39 | Unity (hdrp)                                              | https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/Override-Contact-Shadows.html                                            |
+| 40 | Antialiasing                                              | https://www.geeksforgeeks.org/types-of-antialiasing-techniques/                                                                                                   |
+| 41 | Motion Blur (camera and per-object)                       | https://nerdburglars.net/motion-blur-in-video-games-a-detailed-and-technical-guide/                                                                               |
+| 42 | Tonemapping                                               | https://learn.unity.com/tutorial/post-processing-effects-tone-mapping-2019-3#                                                                                     |
