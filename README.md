@@ -12,7 +12,7 @@
 [📌 Discord Servers](#9) <br>
 [📌 Hard Skill & Hard Skill Plus Unity Sources](#10) <br>
 
-#  <a name="1"></a>Gaming Websites
+#  <a name="1"></a>Gaming Websites 📑
 
 |    | Title                  | Link                                              |
 |----|------------------------|---------------------------------------------------|
@@ -104,7 +104,7 @@
 | 86 | Kong Pokpao            | https://kongbakpao.com/category/games-2/          |
 | 87 | League of Game Makers  | https://www.leagueofgamemakers.com                |
 
-#  <a name="2"></a>Game Design Videos
+#  <a name="2"></a>Game Design Videos 🎥
 
 |    | Title                                                | Link                                                                     |
 |----|------------------------------------------------------|--------------------------------------------------------------------------|
@@ -120,7 +120,7 @@
 | 10 | Game Developer Talks (Türkçe)                        | https://www.youtube.com/playlist?list=PLZj2Q42tw-6-mJciqyDCne0DeVm0duCyS |
 | 11 | Crash Course Games (Oyun Tarihi Nedir, Ne Değildir?) | https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG |
 
-#  <a name="3"></a>Game Design Blogs
+#  <a name="3"></a>Game Design Blogs 📝
 
 |    | Title                                                | Link                                                                                                   |
 |----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -134,7 +134,7 @@
 | 8  | The Colors of Game Design                            | https://uxdesign.cc/colors-of-game-design-9413d81e93a                                                  |
 | 9  | Game Design from Idea to Concept                     | https://hash-rush.medium.com/game-design-from-idea-to-concept-ernack-buildings-structures-d5c91d276254 |
 
-#  <a name="4"></a>Video Game Publishing & Marketing
+#  <a name="4"></a>Video Game Publishing & Marketing 🔗
 
 |    | Title                                                | Link                                                                                                   |
 |----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -144,7 +144,7 @@
 | 4  | Empathizing with Steam                               | https://www.youtube.com/watch?v=UJiv14uPOac&t=316s                                                     |
 | 5  | Chris Zukowski Talks                                 | https://youtube.com/playlist?list=PLrHXT1qupw1jPpJs0NO1g9cbHKaiwgvND                                   |
 
-#  <a name="5"></a>Game Dev Journey
+#  <a name="5"></a>Game Dev Journey 🔗
 
 |    | Title                                                | Link                                                                                                   |
 |----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -154,7 +154,7 @@
 | 4  | GMTK 2                                               | https://www.youtube.com/watch?v=ZMbIvmv25u0                                                            |
 | 5  | Pass the Game Challenge                              | https://youtube.com/playlist?list=PLBIb_auVtBwCNnbmuppsBJdulUZmW0Cfu                                   |
 
-#  <a name="6"></a>Vision & Perspective
+#  <a name="6"></a>Vision & Perspective 🔗
 
 |    | Title                                                | Link                                                                                                   |
 |----|------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -164,7 +164,7 @@
 | 4  | NoClip - Making the Witcher 3                        | https://youtube.com/playlist?list=PL-THgg8QnvU6WuPJmh19U8cAFjzXHCgvk                                   |
 | 5  | Best Indie Games                                     | https://youtube.com/playlist?list=PLBIb_auVtBwCNnbmuppsBJdulUZmW0Cfu                                   |
 
-#  <a name="7"></a>Game Dev Medium Blog
+#  <a name="7"></a>Game Dev Medium Blog 📝
 
 |   | Title           | Link                             |
 |---|-----------------|----------------------------------|
@@ -173,7 +173,7 @@
 | 3 | Sorare          | https://medium.com/sorare        |
 | 4 | Star Atlas Game | https://staratlasgame.medium.com |
 
-#  <a name="8"></a>Twitter Source
+#  <a name="8"></a>Twitter (X) Source 🔗
 
 |    | Title             | Link                                |
 |----|-------------------|-------------------------------------|
@@ -199,7 +199,7 @@
 | 20 | Unreal Engine     | https://twitter.com/UnrealEngine    |
 | 21 | Ataberk Palacı    | https://twitter.com/ataberkpalaci   |
 
-#  <a name="9"></a>Discord Servers
+#  <a name="9"></a>Discord Servers 🔗
 
 |    | Title                | Link                                              |
 |----|----------------------|---------------------------------------------------|
@@ -216,7 +216,7 @@
 | 11 | Mağara Dev         | https://discord.gg/MTHbdtd4FK                    |
 
 
-#  <a name="10"></a>Hard Skill & Hard Skill Plus Unity Sources
+#  <a name="10"></a>Hard Skill & Hard Skill Plus Unity Sources 🎮
 
 |    | Title                                                     | Link                                                                                                                                                              |
 |----|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
