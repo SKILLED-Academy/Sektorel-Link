@@ -1,5 +1,4 @@
 # Sektorel-Link
-Öğrencilere sunabileceğimiz örnek sektörel bilgi, link, kaynak paylaşımları
 
 [📌 Gaming Websites](#1) <br>
 [📌 Game Design Videos](#2) <br>
@@ -261,5 +260,11 @@
 | 39 | Unity (hdrp)                                              | https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/Override-Contact-Shadows.html                                            |
 | 40 | Antialiasing                                              | https://www.geeksforgeeks.org/types-of-antialiasing-techniques/                                                                                                   |
 | 41 | Motion Blur (camera and per-object)                       | https://nerdburglars.net/motion-blur-in-video-games-a-detailed-and-technical-guide/                                                                               |
-| 42 | Tonemapping                                               | https://learn.unity.com/tutorial/post-processing-effects-tone-mapping-2019-3#                                                                                     |
+| 42 | Pluggable AI with Scriptable Object                                               | https://www.youtube.com/watch?v=cHUXh5biQMg                                                                                     |
+| 43 | Pooling via IObjectPool                                              | https://blog.yarsalabs.com/object-pooling-in-unity-with-iobjectpool/                                                                                     |
+| 44 | Camera/World Space Conversion                                            | https://gamedevbeginner.com/how-to-convert-the-mouse-position-to-world-space-in-unity-2d-3d/                                                                                |
+| 45 | Cinemachine                                               | https://gamedevacademy.org/unity-cinemachine-tutorial/                                                                                  |
+| 46 | Damping #1                                           | https://www.alexisbacot.com/blog/the-art-of-damping                                                                                     |
+| 47 | Damping #2                                             | https://www.gamedeveloper.com/blogs/instant-game-feel---springs-explained                                                                                  |
+| 48 | Damping #3                                             | https://www.youtube.com/watch?v=bFOAipGJGA0                                                                              |
  
