@@ -232,11 +232,8 @@
 | 11 | Ragdoll                                                   | https://www.youtube.com/watch?v=DInV-jHm9rk&t=127s                                                                                                                |
 | 12 | Ragdoll                                                   | https://www.youtube.com/watch?v=hQub6caVlpY                                                                                                                       |
 | 13 | Ragdoll                                                   | https://www.youtube.com/watch?v=LDK0yB-nyD8                                                                                                                       |
-| 14 | Ragdoll                                                   | https://suleimanabdullah.medium.com/framework-ragdolls-physics-to-the-enemy-cbdcb1dc7bcf   
-
-| 15 | Ragdoll                              |                    |https://www.youtube.com/playlist?list=PLx7AKmQhxJFaZXE1c0wqc35l4kau-WCNA
-
-| 16 | Vector in Unity                                           | https://awesometuts.com/blog/unity-vectors/#:~:text=Definition%20Of%20A%20Vector&text=In%20game%20development%2C%20vectors%20are,%2C%203D%2C%20and%204D%20vectors |
+| 14 | Ragdoll                                                   | https://suleimanabdullah.medium.com/framework-ragdolls-physics-to-the-enemy-cbdcb1dc7bcf                                                                          |
+| 15 | Vector in Unity                                           | https://awesometuts.com/blog/unity-vectors/#:~:text=Definition%20Of%20A%20Vector&text=In%20game%20development%2C%20vectors%20are,%2C%203D%2C%20and%204D%20vectors |
 | 16 | Vector in Unity                                           | https://www.youtube.com/watch?v=e3z91RqZPAk                                                                                                                       |
 | 17 | Vector in Unity                                           | https://www.youtube.com/watch?v=kz92vvioeng                                                                                                                       |
 | 18 | Rigidbody                                                 | https://www.youtube.com/watch?v=WTGcs10Sj34                                                                                                                       |
